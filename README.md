@@ -2,6 +2,7 @@
 
 <br>
 
+<p> Mon plus gros projet ? Exceller en tant que développeuse web spécialisée dans le back-end, tout en continuant à affiner mes compétences en front-end. Je suis motivée par la passion de créer des solutions web de haute qualité et je m'efforce constamment de repousser mes limites pour atteindre l'excellence dans ce domaine.</p>
 
 <br>
 
